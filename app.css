@@ -13,8 +13,8 @@ label {
 }
 
 input {
-    width: 30%;
-    height: 30px;
+    width: 20vw;
+    height: 8vh;
     justify-self: left;
     align-self: left;
     margin: 20px 50px 50px 20px;
